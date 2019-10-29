@@ -1,0 +1,52 @@
+.bg {
+    width: 1280px;
+    height: 64px;
+    background-color: #414452;
+  }
+
+.ic_exit {
+  width: 16px;
+  height: 12px;
+  object-fit: contain;
+  background-color: var(--white);
+}
+
+.ic_user {
+  width: 10px;
+  height: 12px;
+  object-fit: contain;
+  background-color: var(--white);
+}
+
+.Logo {
+  width: 140px;
+  height: 64px;
+  object-fit: contain;
+}
+
+.Log-off {
+  width: 40px;
+  height: 18px;
+  font-family: SourceSansPro;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--white);
+}
+
+.User-login {
+  width: 59px;
+  height: 18px;
+  font-family: SourceSansPro;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: var(--white);
+}
